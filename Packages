@@ -1,1 +1,11 @@
-
+Package: com.adrepo.sileo
+Name: Sileo
+Version: 2.4.4
+Author: Amy While <me@anamy.gay>
+Maintainer: Anh Đạt
+Description: Trình quản lí gói hiện đại thay thế Cydia
+Architecture: iphoneos-arm
+Depends: firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Section: Packaging
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
